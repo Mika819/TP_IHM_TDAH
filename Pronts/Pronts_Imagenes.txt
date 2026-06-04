@@ -1,0 +1,38 @@
+PASO 1: Creación de las 3 Imágenes de Base (Keyframes)
+
+Imagen 1: El Problema - Caos Absoluto (0s - 4s)
+Punto de vista: Ángulo bajo que captura la cara de la chica y la pantalla de la laptop de abajo hacia arriba.
+
+Gesto: Se agarra la cabeza con ambas manos en un gesto de abrumamiento y preocupación (congestura facial preocupada, cejas fruncidas).
+
+Contenido de la computadora: La pantalla (laptop y monitor de fondo si hay) está completamente saturada de desorden digital: miles de carpetas desordenadas sin nombre, notas adhesivas virtuales de color Rojo Carmesí superpuestas, fechas de parciales manuscritas escaneadas y notificaciones digitales amontonadas en los bordes.
+
+Prompt exacto para copiar y pegar:
+
+A vertical 9:16 cinematic, hyperrealistic medium shot from a low-angle perspective, referencing the point of view in image_0.png. The South American female student with long hair (as in image_0.png) is sitting at her desk, holding her head with both hands in a state of extreme stress and worry. The computer screen is brightly glowing, completely saturated with chaotic digital sticky notes in crimson red, messy unorganized folders, and overlapping handwritten exam dates and notifications.  The room is calm and balanced, with soft cyan lighting from the monitor.
+
+Imagen 2: La Calma / Solución - Orden Inicial (4s - 8s)
+Punto de vista: Mismo ángulo bajo y perspectiva que en la Imagen 1.
+
+Gesto: Su expresión es de alivio profundo y paz (ojos cerrados, hombros relajados).
+
+Contenido de la computadora: La pantalla de la laptop ahora es limpia y minimalista, mostrando la interfaz de la nueva aplicación (Focalize AI). Hay un panel único con carpetas de materias ordenadas por color (azules suaves/grises), y un calendario limpio con los parciales resaltados.
+
+Prompt exacto para copiar y pegar:
+
+A vertical 9:16 cinematic, hyperrealistic medium shot from the same low-angle perspective as image_0.png. The same South American female student is sitting at the same desk, her expression now one of deep relief and peace, with closed eyes and relaxed shoulders. The computer screen, previously chaotic, is now clean and minimal, displaying the single-panel Focalize AI application with grouped color-coded subject folders and a clean calendar. The room is calm and balanced, with soft cyan lighting from the monitor.
+
+Imagen 3: La Felicidad - Recompensa (8s - 12s)
+Punto de vista: Mismo ángulo bajo y perspectiva.
+
+Gesto: Una sonrisa abierta y genuina, ojos brillantes, mirando ligeramente a la cámara. Transmite pura satisfacción.
+
+Contenido de la computadora: La pantalla de la laptop sigue ordenada, pero muestra una notificación de éxito con una barra de progreso limpia y un indicador Verde Esmeralda.
+
+Prompt exacto para copiar y pegar:
+
+A vertical 9:16 cinematic, hyperrealistic medium shot from the same low-angle perspective as image_0.png. The same South American female student is sitting at the same desk, her expression is now of pure happiness, with a wide, genuine smile and eyes fixed slightly on the camera. The organized Focalize AI screen remains clean, but now shows an emerald green success notification with a simple progress bar and checkmark.  The room is calm and balanced, with soft cyan lighting from the monitor.
+
+
+
+
